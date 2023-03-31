@@ -1,6 +1,6 @@
 Name:		texlive-beamertheme-epyt
 Version:	41404
-Release:	1
+Release:	2
 Summary:	A simple and clean theme for LaTeX beamer class
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-epyt
