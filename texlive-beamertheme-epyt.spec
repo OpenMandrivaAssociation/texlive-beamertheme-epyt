@@ -3,7 +3,7 @@ Version:	41404
 Release:	2
 Summary:	A simple and clean theme for LaTeX beamer class
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-epyt
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/beamertheme-epyt
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-epyt.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/beamertheme-epyt.doc.r%{version}.tar.xz
